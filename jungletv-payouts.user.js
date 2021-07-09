@@ -7,6 +7,7 @@
 // @match        https://jungletv.live*
 // @icon         https://www.google.com/s2/favicons?domain=jungletv.live
 // @grant        none
+// @license      GPL-3.0-or-later; https://www.gnu.org/licenses/gpl-3.0.txt
 // ==/UserScript==
 
 (function() {
